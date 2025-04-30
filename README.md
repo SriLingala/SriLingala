@@ -2,7 +2,7 @@
 
 ## 🚀 DevOps | Cloud | Platform Engineering Enthusiast
 
-I'm a passionate DevOps and Cloud Engineer with over 10 years of hands-on experience across India, Sweden, and the UK.  
+I'm a passionate DevOps and Cloud Engineer with over 10 years of hands-on experience across India and the UK.  
 Currently building scalable, reliable cloud-native platforms with GCP, Kubernetes, Terraform, and GitOps practices.
 
 I believe in solving real-world engineering problems using modern DevOps and SRE principles — while continuously learning and evolving every day.
@@ -43,7 +43,7 @@ I believe in solving real-world engineering problems using modern DevOps and SRE
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](linkedin.com/in/itsmesri)
+- [LinkedIn](https://www.linkedin.com/in/itsmesri/)
 
 
 ---
