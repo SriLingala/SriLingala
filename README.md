@@ -45,6 +45,7 @@ I believe in solving real-world engineering problems using modern DevOps and SRE
 ## 🔗 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/itsmesri/)
+-  [Medium](https://medium.com/@srilingala1)
 
 ---
 
