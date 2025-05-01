@@ -11,7 +11,7 @@ I believe in solving real-world engineering problems using modern DevOps and SRE
 
 ## 🌟 What I Do
 
-- 🔧 Build scalable cloud platforms (GCP | GKE | Cloud Run | Cloud Functions)
+- 🔧 Build scalable cloud platforms (GCP | Azure | AWS )
 - 🛠️ Design Infrastructure as Code (Terraform, Automation Scripts)
 - 🔄 Implement GitOps and Continuous Delivery (ArgoCD, Spinnaker, Harness)
 - 📈 Improve Monitoring, Observability, and Reliability (Prometheus, Grafana, Loki)
