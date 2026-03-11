@@ -1,6 +1,6 @@
 # Hi there, I'm Sri! 👋
 
-## 🚀 DevOps | Cloud | Platform Engineering Enthusiast
+## 🚀 DevOps | Cloud | Platform Engineering | MLOps/AIOps Enthusiast
 
 I'm a passionate DevOps and Cloud Engineer with over 10 years of hands-on experience across India and the UK.  
 Currently building scalable, reliable cloud-native platforms with GCP, Kubernetes, Terraform, and GitOps practices.
